@@ -4,7 +4,7 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
 android:orientation="vertical"
 style="@style/loginParent"
-tools:context="com.appsnipp.loginsamples.LoginActivity">
+tools:context="com.appsnipp.loginsamples.RegestrationActivity">
 <ScrollView
     style="@style/parent">
 
@@ -46,7 +46,7 @@ tools:context="com.appsnipp.loginsamples.LoginActivity">
             <TextView
                 style="@style/headerText"
                 android:layout_gravity="center"
-                android:text="App Snipp"
+                android:text="@string/app_name"
                 android:layout_marginTop="40dp"/>
             <include
                 layout="@layout/layout_register"/>

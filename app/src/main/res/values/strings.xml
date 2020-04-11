@@ -4,7 +4,7 @@
     <string name="login_email_hint">Email</string>
     <string name="login_tel_hint">Tel.</string>
     <string name="login_password_hint">Mot de Passe</string>
-    <string name="login_nom_hint">nom</string>
+    <string name="login_nom_hint">Nom</string>
     <string name="login_regestration_hint">inscription</string>
     <string name="signup_login_hint">Vous avez déja un compte? Sign In</string>
     <string name="login_signup_hint">Vous n\'avez pas un compte? Sign Up</string>
