@@ -9,5 +9,6 @@ public class RegestrationActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_regestration);
+        setContentView(R.layout.layout_register);
     }
 }
